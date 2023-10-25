@@ -61,9 +61,9 @@ $ docker push aaingyunii/aai-api:0.5.0
 
 $ docker tag aaingyunii/aai-api:0.5.0  aaingyunii/aai-api:latest
 $ docker images
-REPOSITORY           TAG       IMAGE ID       CREATED          SIZE
-aaingyunii/aai-api   0.6.1     29d4162e7fb5   32 minutes ago   1.04GB
-aaingyunii/aai-api   latest    29d4162e7fb5   32 minutes ago   1.04GB
+REPOSITORY           TAG       IMAGE ID       CREATED         SIZE
+aaingyunii/aai-api   0.5.0     037732a03f05   3 minutes ago   1.04GB
+aaingyunii/aai-api   latest    037732a03f05   3 minutes ago   1.04GB
 
 $ docker push aaingyunii/aai-api
 
