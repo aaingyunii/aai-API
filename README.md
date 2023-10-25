@@ -39,6 +39,7 @@ $ docker run -dit --name aai-fastapi -p 9040:80 aai-api
 ```
 
 ### Deploy fly.io
+- https://aai-api.fly.dev/
 
 ```bash
 $ flyctl auth login
