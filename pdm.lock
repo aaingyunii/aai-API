@@ -6,7 +6,7 @@ groups = ["default"]
 cross_platform = true
 static_urls = false
 lock_version = "4.3"
-content_hash = "sha256:003ef4fe91afbb8de720113204cc1aefcb2c6b2509cd817f0001de5556bc84dd"
+content_hash = "sha256:bd98375d3ce1c10b1e0f68ae01d083994df742585f9409b09a4472e9c4b9c287"
 
 [[package]]
 name = "annotated-types"
@@ -165,6 +165,16 @@ summary = "Cross-platform colored terminal text."
 files = [
     {file = "colorama-0.4.6-py2.py3-none-any.whl", hash = "sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6"},
     {file = "colorama-0.4.6.tar.gz", hash = "sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44"},
+]
+
+[[package]]
+name = "dday"
+version = "1.0.1"
+requires_python = ">=3.8"
+summary = "Showing how many days are remaining till project d-day."
+files = [
+    {file = "dday-1.0.1-py3-none-any.whl", hash = "sha256:095aaae55727d7720d09f79190b8cfc48db5236bd8c4a5a4b59ad232ddec9171"},
+    {file = "dday-1.0.1.tar.gz", hash = "sha256:9ea61410e3a89b65a17d0547092a85f0b290d47715d6e63180569baf91bc6d9b"},
 ]
 
 [[package]]

@@ -10,6 +10,7 @@ dependencies = [
     "uvicorn[standard]>=0.23.2",
     "eleven-pp>=1.2.1",
     "dj-weather-show>=2.0.0",
+    "dday>=1.0.1",
 ]
 requires-python = ">=3.8"
 readme = "README.md"
